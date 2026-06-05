@@ -35,7 +35,7 @@ R^2: 0.687
 - 
 <img width="961" height="528" alt="Cat_boost_car_importance" src="https://github.com/user-attachments/assets/50c09ef5-35b2-40e6-9a70-aa68f441211c" />
 
-<img width="790" height="790" alt="Real_price_vs_predicted" src="https://github.com/user-attachments/assets/3d192437-1f29-45eb-90de-1e5763ab36b2" />
+<img width="790" height="790" alt="Real_price_vs_predicted_CatBoost" src="https://github.com/user-attachments/assets/ea257070-39b5-4faa-afb8-a13ee4239d0f" />
 
 # Technologies Used
 - Python
